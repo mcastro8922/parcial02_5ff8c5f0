@@ -75,7 +75,8 @@ export const Cabecera = () => {
                   <NavLink className="nav-link" to="/qns">
                     Quienes somos
                   </NavLink>
-                </li>
+                  </li>
+                
               </ul>
             </div>
           </div>
